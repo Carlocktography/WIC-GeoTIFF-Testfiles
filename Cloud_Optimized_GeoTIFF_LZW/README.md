@@ -1,5 +1,5 @@
 # WIC-GeoTIFF-Testfiles/Cloud_Optimized_GeoTIFF_LZW/
- A collection of Cloud Optimized GeoTIFF Testfiles for validation and testing against WIC.
+ A collection of [Cloud Optimized GeoTIFF](https://github.com/cogeotiff/cog-spec/blob/master/spec.md) Testfiles for validation and testing against WIC.
  
  Validated using [validate_cloud_optimized_geotiff.py](https://github.com/rouault/cog_validator) by Even Rouault.
  
