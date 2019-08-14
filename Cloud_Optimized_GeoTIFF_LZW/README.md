@@ -12,7 +12,8 @@
 
 ### Compression:
   LZW
-
+  
+#### Files List:  
 NAIP_1.tif  
 NAIP_2.tif  
 NAIP_4.tif  
