@@ -1,5 +1,5 @@
 # WIC-GeoTIFF-Testfiles/Standard_GeoTIFF_LZW/
- A collection of standard/legacy GeoTIFF Testfiles for validation and testing against WIC.
+ A collection of [standard/legacy](http://geotiff.maptools.org/spec/geotiffhome.html) GeoTIFF Testfiles for validation and testing against WIC.
 
 ### Naming Convention:  
  NAIP: Source of imagery  
